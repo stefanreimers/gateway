@@ -328,7 +328,7 @@ utils-months-ago =
 utils-years-ago =
   { $value ->
       [one] vor einem Jahr
-      *[other] vor { $value } Jahr
+      *[other] vor { $value } Jahren
   }
 minute = Minute
 hour = Stunde
